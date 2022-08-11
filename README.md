@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://twitter.com/vasilisalmpanis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vasilisalmpanis" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vasilisalmpanis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vasilisalmpanis" height="30" width="40" /></a>
-<a href="https://fb.com/vasilis almpanis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vasilis almpanis" height="30" width="40" /></a>
+<a href="https://www.facebook.com/billarass.almpanis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vasilis almpanis" height="30" width="40" /></a>
 <a href="https://instagram.com/vasilisalmpanis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vasilisalmpanis" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/vasilisalmpanis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vasilisalmpanis" height="30" width="40" /></a>
 </p>
