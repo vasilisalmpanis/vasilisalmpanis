@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Vasilis</h1>
 <h3 align="center">An aspiring programmer from Greece</h3>
 
-- 📫 How to reach me **vasilisalmpanis@gmail.com**
+- 📫 How to reach me: **vasilisalmpanis@gmail.com**
 
-- ⚡ Fun fact **I can eat my weight in fries :D**
+- ⚡ Fun fact: **I can eat my weight in fries :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
