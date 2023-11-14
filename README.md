@@ -28,10 +28,6 @@
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
 </p>
 
-<p align="left">
-  🚀 Currently honing my skills at [42 Wolfsburg](https://www.42wolfsburg.de/), a peer-to-peer learning school in Wolfsburg, Germany, where collaboration and coding excellence converge!
-</p>
-
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=vasilisalmpanis&show_icons=true&theme=transparent" />
