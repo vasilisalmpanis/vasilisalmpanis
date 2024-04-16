@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Vasilis</h1>
-<h3 align="center">Passionate Programmer | Studying at 42 Wolfsburg | From Greece 🇬🇷</h3>
+<h3 align="center">Passionate Programmer | Studying at 42 Wolfsburg</h3>
 
 - 📫 How to reach me: **vasilisalmpanis@gmail.com**
 
