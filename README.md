@@ -1,8 +1,6 @@
 <h1 align="center">Hi there! I'm Vasilis</h1>
 <h3 align="center">Software Developer</h3>
 
-- 📫 How to reach me: **vasilisalmpanis@gmail.com**
-
 <h3 align="center">Connect with me:</h3>
 
 <table align="center">
