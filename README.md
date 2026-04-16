@@ -4,13 +4,36 @@
 - 📫 How to reach me: **vasilisalmpanis@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/vasilisalmpanis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vasilisalmpanis" height="30" width="40" /></a>
-  <a href="http://linkedin.com/in/vasileios-almpanis-333b5120a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vasilisalmpanis" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/billarass.almpanis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vasilis almpanis" height="30" width="40" /></a>
-  <a href="https://instagram.com/vasilisalmpanis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vasilisalmpanis" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/channel/UCTIX78ax86CF6vFiD64dCTw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vasilisalmpanis" height="30" width="40" /></a>
-</p>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://twitter.com/vasilisalmpanis" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="30"/>
+      </a>
+    </td>
+    <td>
+      <a href="http://linkedin.com/in/vasileios-almpanis-333b5120a" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.facebook.com/billarass.almpanis" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="30"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://instagram.com/vasilisalmpanis" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="30"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/channel/UCTIX78ax86CF6vFiD64dCTw" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40" height="30"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Languages and Tools:</h3>
 
