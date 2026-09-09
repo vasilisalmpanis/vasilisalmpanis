@@ -54,4 +54,8 @@
   </tr>
 </table>
 
+<div align="center">
+
 [![Valmpani's GitHub stats](https://github-stats-extended.vercel.app/api?username=vasilisalmpanis)](https://github.com/stats-organization/github-stats-extended)
+
+</div>
