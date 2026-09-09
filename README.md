@@ -54,11 +54,4 @@
   </tr>
 </table>
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=vasilisalmpanis&show_icons=true&theme=transparent" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasilisalmpanis&layout=compact" />
-  </a>
-</div>
+[![Valmpani's GitHub stats](https://github-stats-extended.vercel.app/api?username=vasilisalmpanis)](https://github.com/stats-organization/github-stats-extended)
